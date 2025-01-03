@@ -21,6 +21,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+
 {% comment %}
 HEADER
 
@@ -33,8 +34,11 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 
 
 {% comment %}
-
+REGISTER 
 {% endcomment %}
+(strong)<p> Register on Eventbrite</p)
+<p> DAY 1: FOR BEGINNERS: Tidy Data and Basics of the UNIX SHELL. <a href="https://www.eventbrite.com/e/quarterly-si-library-carpentries-for-everyone-openrefine-tickets-1133564705549"<https://www.eventbrite.com/e/quarterly-si-library-carpentries-for-everyone-openrefine-tickets-1133564705549></https:>a>  </p>
+
 
 {% comment %}
 Check DC curriculum
