@@ -15,7 +15,7 @@ instructor: ["Corey DiPietro", "Crystal Sanchez", "Richard Naples", "Kristina He
 helper: ["Crystal Sanchez"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sanchezca@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2025-01-smithsonian-online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., [https://pad.carpentries.org/2015-01-01-euphoria]
-eventbrite: "1133647904399"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "1133061691019","1133564705549","1133647904399"     # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
@@ -37,7 +37,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 REGISTER 
 {% endcomment %}
 <strong> Register on Eventbrite
-<div><strong>  DAY 1: FOR BEGINNERS: Tidy Data and Basics of the UNIX SHELL. <a href="https://www.eventbrite.com/e/1133061691019">https://www.eventbrite.com/e/1133061691019</a></div>
+<div><strong>  DAY 1: FOR BEGINNERS: Tidy Data and Basics of the UNIX SHELL. <a href="https://www.eventbrite.com/e/1133061691019">https://www.eventbrite.com/e/1133061691019</a>
 <strong> <div> DAY 2: FOR EVERYONE: OpenRefine. <a href="https://www.eventbrite.com/e/1133564705549">https://www.eventbrite.com/e/1133564705549</a>  </div>
 <strong> <div> DAY 3: MORE ADVANCED: Python from the beginning. <a href="https://www.eventbrite.com/e/1133647904399">www.eventbrite.com/e/1133647904399</a>  </div>
 
@@ -77,6 +77,18 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
+  src="https://www.eventbrite.com/tickets-external?eid=1133061691019"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe><iframe
+  src="https://www.eventbrite.com/tickets-external?eid=1133564705549"
+  frameborder="0"
+  width="100%"
+  height="280px"
+  scrolling="auto">
+</iframe><iframe
   src="https://www.eventbrite.com/tickets-external?eid=1133647904399"
   frameborder="0"
   width="100%"
