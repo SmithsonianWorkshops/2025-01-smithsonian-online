@@ -37,9 +37,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 REGISTER 
 {% endcomment %}
 <strong> Register on Eventbrite
-<strong> <p> DAY 1: FOR BEGINNERS: Tidy Data and Basics of the UNIX SHELL. <a href="https://www.eventbrite.com/e/1133061691019">https://www.eventbrite.com/e/1133061691019</a>  </p>
-<strong> <p> DAY 2: FOR EVERYONE: OpenRefine. <a href="https://www.eventbrite.com/e/1133564705549">https://www.eventbrite.com/e/1133564705549</a>  </p>
-<strong> <p> DAY 3: MORE ADVANCED: Python from the beginning. <a href="https://www.eventbrite.com/e/1133061691019">www.eventbrite.com/e/1133061691019</a>  </p>
+<div><strong>  DAY 1: FOR BEGINNERS: Tidy Data and Basics of the UNIX SHELL. <a href="https://www.eventbrite.com/e/1133061691019">https://www.eventbrite.com/e/1133061691019</a></div>
+<strong> <div> DAY 2: FOR EVERYONE: OpenRefine. <a href="https://www.eventbrite.com/e/1133564705549">https://www.eventbrite.com/e/1133564705549</a>  </div>
+<strong> <div> DAY 3: MORE ADVANCED: Python from the beginning. <a href="https://www.eventbrite.com/e/1133061691019">www.eventbrite.com/e/1133061691019</a>  </div>
 
 {% comment %}
 Check DC curriculum
