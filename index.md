@@ -8,7 +8,7 @@ address: "online"      # full street address of workshop (e.g., "Room A, 123 For
 country: "en"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 humandate: "January 29-30, 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1-4pm ET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "1-4:30pm ET"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2025-01-29     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2025-01-31     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Corey DiPietro", "Crystal Sanchez", "Richard Naples", "Kristina Heinricy"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -72,7 +72,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid=1133061691019&ref=etckt"
+  src="https://www.eventbrite.com/tickets-external?eid=1133061691019"
   frameborder="0"
   width="100%"
   height="280px"
