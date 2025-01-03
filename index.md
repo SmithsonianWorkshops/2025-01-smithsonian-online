@@ -15,7 +15,7 @@ instructor: ["Corey DiPietro", "Crystal Sanchez", "Richard Naples", "Kristina He
 helper: ["Crystal Sanchez"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sanchezca@si.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2025-01-smithsonian-online  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., [https://pad.carpentries.org/2015-01-01-euphoria]
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "1133647904399"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
@@ -77,7 +77,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid=1133061691019"
+  src="https://www.eventbrite.com/tickets-external?eid=1133647904399"
   frameborder="0"
   width="100%"
   height="280px"
